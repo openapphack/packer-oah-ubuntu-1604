@@ -1,0 +1,7 @@
+---
+- src: https://github.com/openapphack/ansible-role-oah-packer-debian
+  version: master
+  name: oah.packer-debian
+- src: https://github.com/openapphack/ansible-role-oah-nfs
+  version: master
+  name: oah.nfs
